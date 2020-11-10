@@ -61,6 +61,6 @@ git stash pop #последний стэш вливаем в unstages измен
 #придерживаться процесса и правил именования веток, которые приняты в команде
 
 Настройка авторизации github по ssh ключу 
-git config --global user.name "grader" #добавляем в настройки гита логин
-git config --global user.email "grader.75@gmail.com" #добавляем в настройки гита логин
+git config --global user.name "user" #добавляем в настройки гита логин
+git config --global user.email "user@gmail.com" #добавляем в настройки гита логин
 git remote add origin git@github.com:<Username>/<Project>.git #добавляем удаленный репозиторий на комп
