@@ -1,4 +1,7 @@
+.vscode/
 logs/
 deploy/
 .vscode/
 skillbox/
+my/
+*token
