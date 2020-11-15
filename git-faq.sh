@@ -67,3 +67,12 @@ git stash pop #последний стэш вливаем в unstages измен
 git config --global user.name "user" #добавляем в настройки гита логин
 git config --global user.email "user@gmail.com" #добавляем в настройки гита логин
 git remote add origin git@github.com:<Username>/<Project>.git #добавляем удаленный репозиторий на комп
+
+#если ты создаешь папку на своем компе и хочешь запулить в облако то делаешь так: 
+mkdir work
+cd work
+git init 
+echo "initial commit" >> README.md
+git add .
+git commit -m "initial commit"
+git remote add origin git@gitlab.skillbox.ru:vladislav_yablokov/base_m1.git
