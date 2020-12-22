@@ -76,3 +76,6 @@ echo "initial commit" >> README.md
 git add .
 git commit -m "initial commit"
 git remote add origin git@gitlab.skillbox.ru:vladislav_yablokov/base_m1.git
+
+#curl man
+curl -H --header -X POST GET PUT 
