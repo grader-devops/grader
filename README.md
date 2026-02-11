@@ -133,6 +133,7 @@
 <details open>
 <summary><b>🤖 ML & Автоматизация процессов</b></summary>
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Camunda](https://img.shields.io/badge/Camunda-FF5C00?style=for-the-badge&logo=camunda&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-1F8B4C?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
